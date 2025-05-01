@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Elias Cutzal
 
-<!--
-**Elias-Cutzal/Elias-Cutzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Desarrollador de Software** | ⚡ **Técnico en Electricidad** | 🚀 **Apasionado por la tecnología**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de desarrollo de software con formación en electricidad, siempre buscando unir la tecnología y la ingeniería en proyectos innovadores. Me encanta aprender nuevas herramientas y frameworks, y actualmente estoy profundizando en **desarrollo web**.
+
+## 💻 Tecnologías que manejo/ "Estoy aprendiendo"
+
+- HTML, CSS, JavaScript
+- Bootstrap
+- Git y GitHub
+- Fundamentos de bases de datos
+
+## 📫 Cómo contactarme
+
+- Email: cuxilcutzal@gmail.com
+
+---
+
+✨ *Siempre abierto a colaborar en proyectos que mezclen software y tecnología eléctrica.*
